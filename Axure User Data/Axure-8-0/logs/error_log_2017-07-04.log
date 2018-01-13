@@ -1,0 +1,60 @@
+
+----------------------------------------
+04/07/2017 17:27:03 -- 1055597147
+Getting more than one duplicate of a font: Apple Braille -- Apple Braille Outline 8 Dot -- 401/Normal/5
+----------------------------------------
+
+
+----------------------------------------
+04/07/2017 17:27:03 -- 1055597147
+Getting more than one duplicate of a font: Apple Braille -- Apple Braille Outline 8 Dot -- 401/Normal/5
+----------------------------------------
+
+
+----------------------------------------
+04/07/2017 17:27:03 -- 1055597147
+Getting more than one duplicate of a font: Apple Braille -- Apple Braille Pinpoint 6 Dot -- 402/Normal/5
+----------------------------------------
+
+
+----------------------------------------
+04/07/2017 17:27:03 -- 1055597148
+Getting more than one duplicate of a font: Apple Braille -- Apple Braille Outline 8 Dot -- 401/Normal/5
+----------------------------------------
+
+
+----------------------------------------
+04/07/2017 17:27:03 -- 1055597148
+Getting more than one duplicate of a font: Apple Braille -- Apple Braille Pinpoint 6 Dot -- 402/Normal/5
+----------------------------------------
+
+
+----------------------------------------
+04/07/2017 17:27:03 -- 1055597148
+Getting more than one duplicate of a font: Apple Braille -- Apple Braille Pinpoint 8 Dot -- 403/Normal/5
+----------------------------------------
+
+
+----------------------------------------
+04/07/2017 17:27:10 -- 1055603442
+Getting more than one duplicate of a font: Skia -- Skia Light Extended -- 401/Normal/7
+----------------------------------------
+
+
+----------------------------------------
+04/07/2017 17:27:10 -- 1055603479
+Getting more than one duplicate of a font: Skia -- Skia Light Condensed -- 401/Normal/2
+----------------------------------------
+
+
+----------------------------------------
+04/07/2017 20:20:01 -- 1065974353
+Message: Error: NameResolutionFailure
+Type: System.Net.WebException
+Source: System
+
+  at System.Net.HttpWebRequest.EndGetRequestStream (System.IAsyncResult asyncResult) [0x00043] in <5071a6e4a4564e19a2eda0f53e42f9bd>:0 
+  at System.Net.HttpWebRequest.GetRequestStream () [0x00057] in <5071a6e4a4564e19a2eda0f53e42f9bd>:0 
+  at ng.a (System.Boolean A_0, System.Boolean A_1) [0x000de] in <a6a22232223c4e6a8b59a984fdd2b38b>:0 
+----------------------------------------
+

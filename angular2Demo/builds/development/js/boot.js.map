@@ -1,0 +1,1 @@
+{"version":3,"sources":["boot.ts"],"names":[],"mappings":";;;;;;;;;;;;;YAGA,mBAAS,CAAC,wBAAO,CAAC,CAAC","file":"boot.js","sourcesContent":["import {bootstrap} from 'angular2/platform/browser';\nimport {AppComponent} from './app.component';\nimport {AppInfo} from './info.component'\nbootstrap(AppInfo);\n"]}
