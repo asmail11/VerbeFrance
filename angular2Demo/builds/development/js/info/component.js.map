@@ -1,1 +1,0 @@
-{"version":3,"sources":["info/component.ts"],"names":[],"mappings":";;;;;;YAME","file":"component.js","sourcesContent":["import {Component} from 'angular2/core';\n @Component(\n     {\n         selector:'my-info',\n         templateUrl:\"views/info.component.html\"\n     }\n )"]}
